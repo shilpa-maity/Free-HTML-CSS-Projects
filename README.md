@@ -1,4 +1,4 @@
-# Free-HTML-CSS-Projects
+# HTML-CSS-Projects
 ![Screenshot (84)](https://github.com/user-attachments/assets/75c2c66c-b300-47aa-b7fc-b3c5443a8f0f)
 <hr/>
 
